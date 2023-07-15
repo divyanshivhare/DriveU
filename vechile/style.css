@@ -1,0 +1,23 @@
+body { background:  #efedf0  !important;}
+.table{
+    border: 10px !important;
+    margin: 10px !important;
+    padding: 50px !important;
+    align-items: center;
+    text-align: center;
+
+}
+.had { background: #bcb1b1  !important;
+    
+}
+
+u{
+    color: white;
+}
+footer{
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    margin-top: auto;
+    align-items: baseline;
+}
