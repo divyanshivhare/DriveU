@@ -11,3 +11,11 @@ Steps to run the site:
 -> Upload a database in MYSQL
 -> Run the project using URL "http://localhost/vechile/home.html"
 -> Here you go.......
+
+Steps to upload database:
+-> Open PHP my admin
+-> Create a new database
+-> Click on import in the navigation bar
+-> Upload the database
+
+NOTE: Name of the data that you create must be "veichle".
